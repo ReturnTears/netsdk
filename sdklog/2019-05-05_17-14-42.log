@@ -1,0 +1,9 @@
+Begin Time:2019-05-05 17:14:42.434
+[2019-05-05 17:14:42.434][P:4344/T:7592][dhnetsdk.cpp:186][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=0000000000000000, dwUser=0000000000000000].
+[2019-05-05 17:14:42.434][P:4344/T:7592][dhnetsdk.cpp:188][Info][0] Leave CLIENT_SetAutoReconnect.
+[2019-05-05 17:14:42.434][P:4344/T:7592][dhnetsdk.cpp:206][Info][0] Enter CLIENT_SetConnectTime:[nWaitTime=5000, nTryTimes=1].
+[2019-05-05 17:14:42.434][P:4344/T:7592][dhnetsdk.cpp:219][Info][0] Leave CLIENT_SetConnectTime.
+[2019-05-05 17:14:42.434][P:4344/T:7592][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=10000, nConnectTryNum=0, nSubConnectSpaceTime=0, nGetDevInfoTime=0, nConnectBufSize=0, nGetConnInfoTime=3000, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2019-05-05 17:14:42.434][P:4344/T:7592][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2019-05-05 17:14:42.436][P:4344/T:7592][dhnetsdk.cpp:6994][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=000000001A1D00D0, dwUser=0000000000000000.]
+[2019-05-05 17:14:42.436][P:4344/T:7592][dhnetsdk.cpp:6997][Info][0] Leave CLIENT_SetSnapRevCallBack.

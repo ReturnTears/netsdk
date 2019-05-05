@@ -1,0 +1,15 @@
+Begin Time:2019-05-05 15:24:28.481
+[2019-05-05 15:24:28.481][P:12988/T:10768][dhnetsdk.cpp:186][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=0000000000000000, dwUser=0000000000000000].
+[2019-05-05 15:24:28.481][P:12988/T:10768][dhnetsdk.cpp:188][Info][0] Leave CLIENT_SetAutoReconnect.
+[2019-05-05 15:24:28.481][P:12988/T:10768][dhnetsdk.cpp:206][Info][0] Enter CLIENT_SetConnectTime:[nWaitTime=5000, nTryTimes=1].
+[2019-05-05 15:24:28.481][P:12988/T:10768][dhnetsdk.cpp:219][Info][0] Leave CLIENT_SetConnectTime.
+[2019-05-05 15:24:28.482][P:12988/T:10768][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=10000, nConnectTryNum=0, nSubConnectSpaceTime=0, nGetDevInfoTime=0, nConnectBufSize=0, nGetConnInfoTime=3000, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2019-05-05 15:24:28.482][P:12988/T:10768][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2019-05-05 15:24:34.829][P:12988/T:12728][dhnetsdk.cpp:7624][Info][0] Enter CLIENT_SearchDevicesByIPs. [pIpSearchInfo=0000000020958530, cbSearchDevices=000000001A920090, dwUserData=0000000000000000, szLocalIp=NULL, dwWaitTime=6000.]
+[2019-05-05 15:24:34.831][P:12988/T:14984][dhnetsdk.cpp:7624][Info][0] Enter CLIENT_SearchDevicesByIPs. [pIpSearchInfo=000000002095C540, cbSearchDevices=000000001A920090, dwUserData=0000000000000000, szLocalIp=NULL, dwWaitTime=6000.]
+[2019-05-05 15:24:34.834][P:12988/T:15004][dhnetsdk.cpp:7624][Info][0] Enter CLIENT_SearchDevicesByIPs. [pIpSearchInfo=0000000020960550, cbSearchDevices=000000001A920090, dwUserData=0000000000000000, szLocalIp=NULL, dwWaitTime=6000.]
+[2019-05-05 15:24:34.848][P:12988/T:9384][dhnetsdk.cpp:7624][Info][0] Enter CLIENT_SearchDevicesByIPs. [pIpSearchInfo=0000000020964560, cbSearchDevices=000000001A920090, dwUserData=0000000000000000, szLocalIp=NULL, dwWaitTime=6000.]
+[2019-05-05 15:24:43.437][P:12988/T:9384][dhnetsdk.cpp:7632][Info][0] Leave CLIENT_SearchDevicesByIPs. [ret=1.]
+[2019-05-05 15:24:43.683][P:12988/T:14984][dhnetsdk.cpp:7632][Info][0] Leave CLIENT_SearchDevicesByIPs. [ret=1.]
+[2019-05-05 15:24:43.688][P:12988/T:12728][dhnetsdk.cpp:7632][Info][0] Leave CLIENT_SearchDevicesByIPs. [ret=1.]
+[2019-05-05 15:24:43.698][P:12988/T:15004][dhnetsdk.cpp:7632][Info][0] Leave CLIENT_SearchDevicesByIPs. [ret=1.]

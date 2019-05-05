@@ -1,0 +1,24 @@
+Begin Time:2019-05-05 15:03:15.645
+[2019-05-05 15:03:15.645][P:11200/T:6872][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2019-05-05 15:03:15.651][P:11200/T:6872][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 0000000025980000
+
+[2019-05-05 15:03:15.651][P:11200/T:6872][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2019-05-05 15:03:15.654][P:11200/T:6872][dhnetsdk.cpp:186][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=000000001BCE0050, dwUser=0000000000000000].
+[2019-05-05 15:03:15.654][P:11200/T:6872][dhnetsdk.cpp:188][Info][0] Leave CLIENT_SetAutoReconnect.
+[2019-05-05 15:03:15.654][P:11200/T:6872][dhnetsdk.cpp:206][Info][0] Enter CLIENT_SetConnectTime:[nWaitTime=5000, nTryTimes=1].
+[2019-05-05 15:03:15.654][P:11200/T:6872][dhnetsdk.cpp:219][Info][0] Leave CLIENT_SetConnectTime.
+[2019-05-05 15:03:15.655][P:11200/T:6872][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=10000, nConnectTryNum=0, nSubConnectSpaceTime=0, nGetDevInfoTime=0, nConnectBufSize=0, nGetConnInfoTime=3000, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2019-05-05 15:03:15.655][P:11200/T:6872][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2019-05-05 15:13:47.582][P:11200/T:6872][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.12.17, port=37777, SpeCap=0, lpDeviceInfo=000000001BC58E10.]
+[2019-05-05 15:13:57.583][P:11200/T:6872][TPTCPClient.cpp:378][Error][90010007] Connect host failed, ip:172.23.12.17
+[2019-05-05 15:13:57.583][P:11200/T:6872][dhdevprob.cpp:2226][Error][8000040a] Failed to create main connection
+[2019-05-05 15:13:57.583][P:11200/T:6872][Manager.cpp:7549][Error][90010002] device is NULL
+[2019-05-05 15:13:57.583][P:11200/T:6872][Manager.cpp:7646][Error][90010002] Login device failed, errorcode:9!
+[2019-05-05 15:13:57.583][P:11200/T:6872][dhnetsdk.cpp:609][Error][90010002] Login failed, ip:172.23.12.17, port:37777, specCap:0!
+[2019-05-05 15:13:57.583][P:11200/T:6872][dhnetsdk.cpp:618][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2019-05-05 15:13:57.584][P:11200/T:6872][dhnetsdk.cpp:6505][Info][0] Enter CLIENT_GetLastError.
+[2019-05-05 15:13:57.584][P:11200/T:6872][dhnetsdk.cpp:6508][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2019-05-05 15:13:57.584][P:11200/T:6872][dhnetsdk.cpp:6505][Info][0] Enter CLIENT_GetLastError.
+[2019-05-05 15:13:57.585][P:11200/T:6872][dhnetsdk.cpp:6508][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2019-05-05 15:13:57.589][P:11200/T:6872][dhnetsdk.cpp:6505][Info][0] Enter CLIENT_GetLastError.
+[2019-05-05 15:13:57.589][P:11200/T:6872][dhnetsdk.cpp:6508][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]

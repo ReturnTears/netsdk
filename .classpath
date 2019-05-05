@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="JNADemo/libs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="res"/>
+	<classpathentry kind="lib" path="libs/examples.jar"/>
+	<classpathentry kind="lib" path="libs/jna.jar" />
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
